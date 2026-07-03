@@ -25,3 +25,4 @@
 ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
  POST /api/chat 200 in 14136ms
  ✓ Compiled in 222ms
+ GET / 200 in 457ms
