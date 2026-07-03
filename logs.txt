@@ -1,0 +1,27 @@
+   ▲ Next.js 15.3.9 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://10.208.128.145:3000
+
+ ✓ Starting...
+ ⚠ Invalid next.config.ts options detected: 
+ ⚠     Unrecognized key(s) in object: 'root' at "turbopack"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+ ✓ Compiled middleware in 249ms
+ ✓ Ready in 1093ms
+ ○ Compiling / ...
+(node:44279) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ✓ Compiled / in 8s
+ GET / 200 in 2253ms
+ GET / 200 in 60ms
+ GET / 200 in 126ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 957ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 1211ms
+ GET / 200 in 99ms
+ GET / 200 in 597ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1532ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 14136ms
+ ✓ Compiled in 222ms
